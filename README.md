@@ -1,16 +1,19 @@
-## Hi there 👋
+# Bienvenue sur mon profil GitHub
 
-<!--
-**AnthonyHaye/AnthonyHaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis Anthony Hayé, un développeur passionné par le web, particulièrement par JavaScript et React. Voici quelques informations sur moi :
 
-Here are some ideas to get you started:
+- 🌱 Actuellement en reconversion, j'apprends les langages informatiques.
+- 📚 En formation avec OpenClassRoom sur le thème de JavaScript et React.
+- 💼 J'aspire à devenir développeur d'applications web.
+- 📷 Passionné de photographie et de marchés boursiers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mes projets
+
+- [Projet 1](lien_vers_projet) : Description courte du projet.
+- [Projet 2](lien_vers_projet) : Description courte du projet.
+
+## Me contacter
+
+- [LinkedIn](https://www.linkedin.com/in/votreprofil/)
+- [Twitter](https://twitter.com/votreprofil)
+
