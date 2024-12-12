@@ -18,7 +18,7 @@ Outils & Méthodes: Git, GitHub, Jest, Méthodologies Agile (Kanban, Scrum), Tes
 
 Bill-app: Application de gestion de factures avec un monorepo structuré (Front & Back).
 
-Kasa: Plateforme de location immobilière développée avec React, incluant une architecture modulaire, des tests unitaires et une expérience utilisateur fluide.
+Kasa: Plateforme de location immobilière développée avec React, incluant une architecture modulaire,  une expérience utilisateur fluide.
 
 🎯 Objectif Professionnel
 
@@ -30,7 +30,6 @@ Photographie: Spécialement l’astrophotographie et les portraits.
 
 Bourse: Apprentissage du trading d’actions américaines avec l’analyse technique (MACD, RSI, OBV).
 
-Lecture: Fan de bandes dessinées, notamment Franquin, Gaston Lagaffe et Astérix.
 
 📚 Apprentissage Continu
 
