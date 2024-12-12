@@ -4,40 +4,47 @@
 
 Je m'appelle Anthony, et après 28 ans d'expérience en tant qu'électrotechnicien, j'ai choisi de relever un nouveau défi professionnel en me reconvertissant dans le développement web. Actuellement en formation chez OpenClassrooms, je me spécialise dans les technologies JavaScript et React.
 
-💻 Compétences Techniques
+## 🌐 Profil Professionnel
 
-Front-end: JavaScript (ES6+), React.js, HTML5, CSS3
+### 💻 **Compétences Techniques**
 
-Back-end: Node.js, Express, PHP (Symfony)
+📌 **Front-end:**
+- JavaScript (ES6+)
+- React.js
+- HTML5 / CSS3
 
-Base de données: MongoDB, PostgreSQL, SQL
+📌 **Back-end:**
+- Node.js / Express
+- PHP (Symfony)
 
-Outils & Méthodes: Git, GitHub, Jest, Méthodologies Agile (Kanban, Scrum), Tests unitaires et E2E
+📌 **Base de données:**
+- MongoDB
+- PostgreSQL
+- SQL
 
-🌟 Projets Notables
+📌 **Outils & Méthodes:**
+- Git / GitHub
+- Jest (Tests unitaires & E2E)
+- Méthodologies Agiles (Kanban / Scrum)
 
-Bill-app: Application de gestion de factures avec un monorepo structuré (Front & Back).
+---
 
-Kasa: Plateforme de location immobilière développée avec React, incluant une architecture modulaire,  une expérience utilisateur fluide.
+🎯 **Objectif Professionnel:**
+Devenir développeur web fullstack capable de concevoir et maintenir des applications robustes et performantes.
 
-🎯 Objectif Professionnel
+📬 **Contact:**
+[LinkedIn](#) | [Email](#)
 
-Devenir développeur web fullstack, capable de concevoir et maintenir des applications robustes et performantes.
+✨ **Passions:**
+- Photographie (Astrophotographie, Portraits)
+- Trading d'actions américaines (Analyse technique : MACD, RSI, OBV)
 
-📸 Passions et Loisirs
+---
 
-Photographie: Spécialement l’astrophotographie et les portraits.
+📚 **Apprentissage Continu:**
+Toujours en veille technologique et prêt à collaborer sur de nouveaux projets !
 
-Bourse: Apprentissage du trading d’actions américaines avec l’analyse technique (MACD, RSI, OBV).
 
-
-📚 Apprentissage Continu
-
-Je suis constamment à l'affût des dernières tendances technologiques. J’aime apprendre, partager et collaborer avec d'autres développeurs.
-
-📬 Contact
-
-Vous pouvez me retrouver sur LinkedIn ou me contacter par email. N'hésitez pas à consulter mes projets sur ce GitHub !
 
 
 
